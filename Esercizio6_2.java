@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumeriSottoLaMedia 
+public class Esercizio6_2 
 {
 
     public static void main(String[] args) 
