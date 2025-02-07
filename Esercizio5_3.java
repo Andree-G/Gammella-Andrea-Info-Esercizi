@@ -1,4 +1,4 @@
-public class diviso
+public class Esercizio5_3
 {
 
     public static boolean divisibile(int a, int b) 
