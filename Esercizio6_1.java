@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ContaFamiglie 
+public class Esercizio6_1 
 {
 
     public static void main(String[] args) 
