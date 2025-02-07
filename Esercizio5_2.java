@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Saluto 
+public class Esercizio5_2 
 {
 
    
