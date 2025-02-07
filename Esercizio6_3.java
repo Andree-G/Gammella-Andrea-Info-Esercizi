@@ -1,4 +1,4 @@
-public class esercizio 
+public class Esercizio6_3 
 {
 
     public static boolean strettamenteCrescente(double[] in) 
